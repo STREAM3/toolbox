@@ -1,0 +1,6 @@
+[submodule "pyisc"]
+	path = pyisc
+	url = https://github.com/STREAM3/pyisc
+[submodule "visisc"]
+	path = visisc
+	url = https://github.com/STREAM3/visisc
