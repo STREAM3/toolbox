@@ -1,0 +1,3 @@
+[submodule "isc2"]
+	path = isc2
+	url = https://github.com/sics-dna/isc2
