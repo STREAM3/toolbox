@@ -7,6 +7,8 @@ Project webpage: https://www.sics.se/projects/stream
 
 `>> git clone https://github.com/STREAM3/toolbox --recursive`
 
+If you manage to only download the highest level(s) of the toolbox, try then:
+
 `>> cd toolbox`
 
 `>> git submodule update --init --recursive`
