@@ -5,10 +5,10 @@ Project webpage: https://www.sics.se/projects/stream
 
 ##Installation
 
-´>> git clone https://github.com/STREAM3/toolbox --recursive´
+`>> git clone https://github.com/STREAM3/toolbox --recursive`
 
-´>> cd toolbox´
+`>> cd toolbox`
 
-´>> git submodule update --init --recursive´
+`>> git submodule update --init --recursive`
 
 Then, follow the installation instruction in each submodule.
