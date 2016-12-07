@@ -4,3 +4,9 @@
 [submodule "visisc"]
 	path = visisc
 	url = https://github.com/STREAM3/visisc
+[submodule "DAS-Android-Application"]
+	path = DAS-Android-Application
+	url = https://github.com/STREAM3/DAS-Android-Application
+[submodule "Driver-Advisory-System-MATLAB-"]
+	path = Driver-Advisory-System-MATLAB-
+	url = https://github.com/STREAM3/Driver-Advisory-System-MATLAB-
